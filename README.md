@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NikkiNerd10
+- 👋 Hi, I’m @stoessern
 - 👀 I’m interested in learning how to be profiicent with writing code
 - 💞️ I’m looking to collaborate on anything for experience.
 - 📫 How to reach me ...
